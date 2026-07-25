@@ -18,6 +18,7 @@ jobs:
     timeout-minutes: 15
 
     env:
+      MIN_DOMAIN_COUNT: "15"
       IRAN_STREAMING_CRT_TIMEOUT: "8"
       IRAN_STREAMING_URLSCAN_TIMEOUT: "8"
       IRAN_STREAMING_PAGE_TIMEOUT: "8"
