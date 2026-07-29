@@ -596,7 +596,6 @@ socket.anten.ir
 static.anten.ir
 static.aparat.com
 static.aparatkids.com
-static.cdn.asset.aparat.com
 static.cdn.asset.filimo.com
 static.filimo.com
 static.ifilmtv.ir
@@ -779,6 +778,7 @@ vod.televika.com
 vod.telewebion.com
 vod.tv.ir
 vod.tva.ir
+website-staging.imvbox.com
 ws.namava.ir
 ww547.shabakema.com
 www.anten.ir
@@ -794,6 +794,7 @@ www.lenz.ir
 www.mp4.ir
 www.namasha.com
 www.namava.ir
+www.new.imvbox.com
 www.qazvin.irib.ir
 www.sabaidea.com
 www.sabavision.com
