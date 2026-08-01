@@ -61,7 +61,6 @@ app.televika.com
 app.telewebion.com
 app.tv.ir
 app.tva.ir
-ar.ifilmtv.ir
 as-v1.tamasha.com
 as-v2.tamasha.com
 asset.anten.ir
@@ -262,7 +261,6 @@ edge.televika.com
 edge.telewebion.com
 edge.tv.ir
 edge.tva.ir
-en.ifilmtv.ir
 entertainment-api.anten.ir
 event.anten.ir
 event.aparat.com
@@ -283,8 +281,6 @@ event.televika.com
 event.telewebion.com
 event.tv.ir
 event.tva.ir
-fa.ifilmtv.ir
-fa2.ifilmtv.ir
 filimo.com
 french.irib.ir
 gateway.anten.ir
