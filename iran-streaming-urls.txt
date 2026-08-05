@@ -537,6 +537,7 @@ https://player.telewebion.com/
 https://player.tv.ir/
 https://player.tva.ir/
 https://r.filimo.com/
+https://s-cloud.irib.ir/
 https://s-v4.tamasha.com/
 https://s.anten.ir/
 https://s.aparat.com/
@@ -591,6 +592,7 @@ https://search.tv.ir/
 https://search.tva.ir/
 https://sepehr.irib.ir/
 https://shabakema.com/
+https://signin.irib.ir/
 https://simacdn1.irib.ir/
 https://socket.anten.ir/
 https://static.anten.ir/

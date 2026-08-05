@@ -537,6 +537,7 @@ player.telewebion.com
 player.tv.ir
 player.tva.ir
 r.filimo.com
+s-cloud.irib.ir
 s-v4.tamasha.com
 s.anten.ir
 s.aparat.com
@@ -591,6 +592,7 @@ search.tv.ir
 search.tva.ir
 sepehr.irib.ir
 shabakema.com
+signin.irib.ir
 simacdn1.irib.ir
 socket.anten.ir
 static.anten.ir
