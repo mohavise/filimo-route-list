@@ -124,7 +124,6 @@ auth.tv.ir
 auth.tva.ir
 bazargani.irib.ir
 blog.namava.ir
-blog.sabavision.com
 cdn-live.irib.ir
 cdn.anten.ir
 cdn.aparat.com
