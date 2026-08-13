@@ -673,7 +673,6 @@ static3.televika.com
 static3.telewebion.com
 static3.tv.ir
 static3.tva.ir
-statistics.irib.ir
 stats.namasha.com
 stream.anten.ir
 stream.aparat.com

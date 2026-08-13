@@ -673,7 +673,6 @@ https://static3.televika.com/
 https://static3.telewebion.com/
 https://static3.tv.ir/
 https://static3.tva.ir/
-https://statistics.irib.ir/
 https://stats.namasha.com/
 https://stream.anten.ir/
 https://stream.aparat.com/
