@@ -123,16 +123,12 @@ auth.telewebion.com
 auth.tv.ir
 auth.tva.ir
 bazargani.irib.ir
-blog.aparat.com
-blog.filimo.com
 blog.namava.ir
 blog.sabavision.com
-blog2.filimo.com
 cdn-live.irib.ir
 cdn.anten.ir
 cdn.aparat.com
 cdn.aparatkids.com
-cdn.asset.filimo.com
 cdn.filimo.com
 cdn.ifilmtv.ir
 cdn.imvbox.com
@@ -267,7 +263,6 @@ edge.televika.com
 edge.telewebion.com
 edge.tv.ir
 edge.tva.ir
-email.mg.filimo.com
 en.ifilmtv.ir
 entertainment-api.anten.ir
 event.anten.ir
@@ -312,7 +307,6 @@ gateway.televika.com
 gateway.telewebion.com
 gateway.tv.ir
 gateway.tva.ir
-help.filimo.com
 ifilmtv.ir
 image.anten.ir
 image.aparat.com
@@ -376,7 +370,6 @@ irib.ir
 japanese.irib.ir
 job.sabaidea.com
 lenz.ir
-link-s2g.filimo.com
 live.anten.ir
 live.aparat.com
 live.aparatkids.com
@@ -543,8 +536,6 @@ player.televika.com
 player.telewebion.com
 player.tv.ir
 player.tva.ir
-qa.filimo.com
-quiz.filimo.com
 r.filimo.com
 s-cloud.irib.ir
 s-v4.tamasha.com
@@ -600,7 +591,6 @@ search.tv.ir
 search.tva.ir
 sepehr.irib.ir
 shabakema.com
-shot.filimo.com
 signin.irib.ir
 simacdn1.irib.ir
 socket.anten.ir
@@ -704,7 +694,6 @@ stream.tv.ir
 stream.tva.ir
 streaming.imvbox.com
 support.aparatkids.com
-support.filimo.com
 support.televika.com
 tamasha.com
 tehran16-shatel-edge.anten.ir
@@ -808,7 +797,6 @@ www.qazvin.irib.ir
 www.sabaidea.com
 www.sabavision.com
 www.shabakema.com
-www.shot.filimo.com
 www.tamasha.com
 www.televika.com
 www.telewebion.com
