@@ -124,6 +124,7 @@ https://auth.tv.ir/
 https://auth.tva.ir/
 https://bazargani.irib.ir/
 https://blog.namava.ir/
+https://blog.sabavision.com/
 https://cdn-live.irib.ir/
 https://cdn.anten.ir/
 https://cdn.aparat.com/
