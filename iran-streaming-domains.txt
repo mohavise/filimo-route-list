@@ -373,7 +373,6 @@ lenz.ir
 live.anten.ir
 live.aparat.com
 live.aparatkids.com
-live.api.anten.ir
 live.asset.televika.com
 live.cdn.asset.filimo.com
 live.filimo.com
@@ -695,7 +694,6 @@ streaming.imvbox.com
 support.aparatkids.com
 support.televika.com
 tamasha.com
-tehran16-shatel-edge.anten.ir
 televika.com
 telewebion.com
 tv.anten.ir
