@@ -123,14 +123,12 @@ https://auth.telewebion.com/
 https://auth.tv.ir/
 https://auth.tva.ir/
 https://bazargani.irib.ir/
-https://blog.aparatkids.com/
 https://blog.namava.ir/
 https://blog.sabavision.com/
 https://cdn-live.irib.ir/
 https://cdn.anten.ir/
 https://cdn.aparat.com/
 https://cdn.aparatkids.com/
-https://cdn.asset.aparatkids.com/
 https://cdn.filimo.com/
 https://cdn.ifilmtv.ir/
 https://cdn.imvbox.com/
@@ -371,9 +369,7 @@ https://imvbox.com/
 https://irib.ir/
 https://japanese.irib.ir/
 https://job.sabaidea.com/
-https://landing.aparatkids.com/
 https://lenz.ir/
-https://link-s2g.aparatkids.com/
 https://live.anten.ir/
 https://live.aparat.com/
 https://live.aparatkids.com/
