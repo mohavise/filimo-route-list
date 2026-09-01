@@ -376,6 +376,7 @@ remove [find address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment~"iran-streaming
 :do { add regexp="(^|.*\.)irib\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:irib.ir" } on-error={}
 :do { add regexp="(^|.*\.)japanese\.irib\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:japanese.irib.ir" } on-error={}
 :do { add regexp="(^|.*\.)job\.sabaidea\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:job.sabaidea.com" } on-error={}
+:do { add regexp="(^|.*\.)kids\.mp4\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:kids.mp4.ir" } on-error={}
 :do { add regexp="(^|.*\.)lenz\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:lenz.ir" } on-error={}
 :do { add regexp="(^|.*\.)live\.anten\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:live.anten.ir" } on-error={}
 :do { add regexp="(^|.*\.)live\.aparat\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:live.aparat.com" } on-error={}
@@ -505,6 +506,7 @@ remove [find address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment~"iran-streaming
 :do { add regexp="(^|.*\.)payment\.telewebion\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:payment.telewebion.com" } on-error={}
 :do { add regexp="(^|.*\.)payment\.tv\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:payment.tv.ir" } on-error={}
 :do { add regexp="(^|.*\.)payment\.tva\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:payment.tva.ir" } on-error={}
+:do { add regexp="(^|.*\.)photos\.mp4\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:photos.mp4.ir" } on-error={}
 :do { add regexp="(^|.*\.)play\.anten\.ir\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:play.anten.ir" } on-error={}
 :do { add regexp="(^|.*\.)play\.aparat\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:play.aparat.com" } on-error={}
 :do { add regexp="(^|.*\.)play\.aparatkids\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:play.aparatkids.com" } on-error={}
