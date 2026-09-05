@@ -607,7 +607,6 @@ remove [find address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment~"iran-streaming
 :do { add regexp="(^|.*\.)s44\.namasha\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:s44.namasha.com" } on-error={}
 :do { add regexp="(^|.*\.)s45\.namasha\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:s45.namasha.com" } on-error={}
 :do { add regexp="(^|.*\.)s47\.namasha\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:s47.namasha.com" } on-error={}
-:do { add regexp="(^|.*\.)s48\.namasha\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:s48.namasha.com" } on-error={}
 :do { add regexp="(^|.*\.)s50\.namasha\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:s50.namasha.com" } on-error={}
 :do { add regexp="(^|.*\.)s51\.namasha\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:s51.namasha.com" } on-error={}
 :do { add regexp="(^|.*\.)s52\.namasha\.com\$" type=FWD address-list=DST-IRAN-STREAMING-TO-OUTBOUND comment="iran-streaming:s52.namasha.com" } on-error={}
