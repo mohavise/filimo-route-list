@@ -18,6 +18,9 @@ https://account.televika.com/
 https://account.telewebion.com/
 https://account.tv.ir/
 https://account.tva.ir/
+https://adc1.irib.ir/
+https://adc2.irib.ir/
+https://adc3.irib.ir/
 https://anten.ir/
 https://aparat.com/
 https://aparatkids.com/
@@ -297,6 +300,7 @@ https://event.tv.ir/
 https://event.tva.ir/
 https://fa.ifilmtv.ir/
 https://fa2.ifilmtv.ir/
+https://fani-app.irib.ir/
 https://fars.asset.aparat.com/
 https://filimo.com/
 https://french.irib.ir/
@@ -379,6 +383,7 @@ https://img.televika.com/
 https://img.telewebion.com/
 https://img.tv.ir/
 https://img.tva.ir/
+https://imrl.arc.irib.ir/
 https://imvbox.com/
 https://income.aparat.com/
 https://irib.ir/
@@ -454,6 +459,7 @@ https://m.televika.com/
 https://m.telewebion.com/
 https://m.tv.ir/
 https://m.tva.ir/
+https://mail.anten.ir/
 https://mashhad.asset.aparat.com/
 https://media.anten.ir/
 https://media.aparat.com/
@@ -494,6 +500,7 @@ https://mobile.televika.com/
 https://mobile.telewebion.com/
 https://mobile.tv.ir/
 https://mobile.tva.ir/
+https://monazereh.anten.ir/
 https://mp4.ir/
 https://msx-live.namava.ir/
 https://msx.namava.ir/
@@ -588,6 +595,7 @@ https://s.televika.com/
 https://s.telewebion.com/
 https://s.tv.ir/
 https://s.tva.ir/
+https://s1-arvan-edge.anten.ir/
 https://s43.namasha.com/
 https://s44.namasha.com/
 https://s45.namasha.com/
@@ -617,6 +625,8 @@ https://search.telewebion.com/
 https://search.tv.ir/
 https://search.tva.ir/
 https://sepehr.irib.ir/
+https://sepehrapi.irib.ir/
+https://sepehrstb.irib.ir/
 https://shabakema.com/
 https://shot.filimo.com/
 https://signin.irib.ir/
@@ -722,15 +732,19 @@ https://stream.telewebion.com/
 https://stream.tv.ir/
 https://stream.tva.ir/
 https://streaming.imvbox.com/
+https://stv.irib.ir/
 https://support.aparat.com/
 https://support.aparatkids.com/
 https://support.filimo.com/
 https://support.televika.com/
 https://tabriz.asset.aparat.com/
 https://tamasha.com/
+https://tehran01.shatel.edge.anten.ir/
 https://tehran16-shatel-edge.anten.ir/
 https://televika.com/
 https://telewebion.com/
+https://test.ca.irib.ir/
+https://tools.anten.ir/
 https://tv.anten.ir/
 https://tv.aparat.com/
 https://tv.aparatkids.com/
@@ -838,4 +852,6 @@ https://www.telewebion.com/
 https://www.tv.ir/
 https://www.tva.ir/
 https://www.urmia.irib.ir/
+https://www.www3.live.irib.ir/
+https://www3.live.irib.ir/
 https://yasouj.irib.ir/
